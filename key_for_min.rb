@@ -7,7 +7,7 @@ min = NIL
 key = NIL
 
 name_hash.each do |name, element|
-  if 
+  if min == nil || 
 
 
 end
